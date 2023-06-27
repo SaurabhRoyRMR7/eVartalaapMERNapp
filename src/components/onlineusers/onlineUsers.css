@@ -1,0 +1,7 @@
+.onlineusers{
+    flex: 3.5;
+}
+.list-group.list-group-light{
+    display: flex;
+    align-items: center;
+}

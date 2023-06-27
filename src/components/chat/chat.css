@@ -1,0 +1,59 @@
+/* 
+.chat {
+
+    display: flex;
+  }
+
+  .chatOnline {
+    flex: 3;
+  }
+
+  
+  .chatBox{
+    flex: 10;
+  }
+  @media screen and (max-width: 768px) {
+    
+    .chatBox{
+      flex: 10;
+    }
+  
+    .chatOnline{
+      flex: 1px;
+    }
+  }
+   */
+
+   /* .chat{
+    display: flex;
+    
+   }
+   .chatbox{
+    flex: 9;
+   }
+   .chatOnline{
+    flex: 3;
+  }
+  .chatBoxTop {
+    height: 100%;
+    overflow-y: scroll;
+    padding-right: 10px;
+  }
+  .chatBoxBottom {
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  @media screen and (max-width: 768px) {
+    
+  
+    .chatBox{
+      flex: 3;
+    }
+  
+    .chatOnline{
+      flex: 1px;
+    }
+  }
+   */
