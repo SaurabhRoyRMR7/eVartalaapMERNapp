@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/eVartalaapMERNapp/static/css/main.22073b17.css",
+    "main.js": "/eVartalaapMERNapp/static/js/main.8d4cfd19.js",
+    "static/js/27.c6e192fa.chunk.js": "/eVartalaapMERNapp/static/js/27.c6e192fa.chunk.js",
+    "index.html": "/eVartalaapMERNapp/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.22073b17.css",
+    "static/js/main.8d4cfd19.js"
+  ]
+}
